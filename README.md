@@ -1,4 +1,4 @@
-# Hi there, I'm [AMUTHAN C P] 👋
+# Hi there, I'm AMUTHAN C P 👋
 
 ### 🚀 About Me
 
