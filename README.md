@@ -23,7 +23,8 @@ I'm a **3rd-year Computer Science & Engineering student** with a strong passion 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-P-AMUTHAN&layout=compact&theme=radical)
 
-- **Current Streak**: ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=C-P-AMUTHAN&theme=radical)
+**Current Streak**: 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=C-P-AMUTHAN&theme=radical)
 
 
 ### 📫 How to reach me
