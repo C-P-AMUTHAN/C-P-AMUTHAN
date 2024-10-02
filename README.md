@@ -19,8 +19,6 @@ I'm a **3rd-year Computer Science & Engineering student** with a strong passion 
 
 ### 📈 Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=C-P-AMUTHAN&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-P-AMUTHAN&layout=compact&theme=radical)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=C-P-AMUTHAN&theme=radical)
