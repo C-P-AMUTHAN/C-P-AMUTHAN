@@ -15,7 +15,6 @@ I'm a **3rd-year Computer Science & Engineering student** with a strong passion 
 
 - **Java Full-Stack Development**: Expanding my knowledge and building applications with Java, Spring Boot, and RESTful APIs.
 - **Web Development Projects**: Designing and building intuitive web interfaces using React.js, HTML, CSS, and JavaScript.
-- **Open Source Contributions**: Actively contributing to open-source projects and continuously learning through coding.
 
 ### 📈 Coding Stats
 
