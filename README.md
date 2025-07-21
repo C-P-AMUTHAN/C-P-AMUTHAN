@@ -1,14 +1,15 @@
 # 👋 Hello, I'm Amuthan C P
 
-🎓 A passionate **Computer Science Engineering** student from **K. Ramakrishnan College of Engineering**, currently in my 3rd year (CGPA: 8.41). I specialize in **Backend Development**, **System Optimization**, and **Full Stack Development**.
+🎓 A passionate **Computer Science Engineering** student from **K. Ramakrishnan College of Engineering**, currently in my 4th year (CGPA: 8.43). I specialize in **Problem solving** and **Full Stack Development**.
+
+![Profile Views](https://komarev.com/ghpvc/?username=C-P-AMUTHAN&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building **GoWhats**, a full-stack web app integrating WhatsApp Business API
-- 🌱 Learning and working on **MERN Stack**, Cloud Computing, and **AI-integrated frontend solutions**
-- 💡 Interested in **System Design**, **Efficient Algorithms**, and **Startup-grade Scalable Apps**
+- 🚀 Previously developed GoWhats, a full-stack web app integrating WhatsApp Business API to automate order management.
+- 🌱 Learning and working on **MERN Stack** and **AI-integrated frontend solutions**
 - 🧠 Practicing competitive programming on **SkillRack**, **HackerRank**, and **LeetCode**
 - 📫 How to reach me: [amuthanpuviarasu7@gmail.com](mailto:amuthanpuviarasu7@gmail.com)
 
@@ -24,6 +25,18 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
 **Other:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📈 GitHub Analytics
+
+![Amuthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C-P-AMUTHAN&show_icons=true&theme=tokyonight&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=C-P-AMUTHAN&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C-P-AMUTHAN&layout=compact&theme=tokyonight)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=C-P-AMUTHAN&theme=tokyonight&no-frame=true&margin-w=5)
 
 ---
 
