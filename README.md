@@ -32,7 +32,7 @@
 
 ![Amuthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C-P-AMUTHAN&show_icons=true&theme=tokyonight&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=C-P-AMUTHAN&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=C-P-AMUTHAN&theme=tokyonight&border_radius=5)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C-P-AMUTHAN&layout=compact&theme=tokyonight)
 
