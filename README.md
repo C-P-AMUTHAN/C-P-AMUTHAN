@@ -53,16 +53,6 @@
 
 ---
 
-## 🧠 Certifications
-
-- 🏅 **Microsoft Azure Fundamentals** – Scored 885/1000
-- 📘 NPTEL Courses:  
-  - Programming in Java  
-  - Internet of Things  
-  - Cloud Computing
-
----
-
 ## 🧾 Projects
 
 ### 🔷 GoWhats Web Application  
@@ -112,15 +102,6 @@ An elegant, responsive front-end site for pet adoption using only HTML5 and CSS3
 A front-end task manager web app that allows users to **add, view, complete, and delete tasks**. Fully interactive with persistent data via local storage.  
 **Tech:** HTML5, CSS3, JavaScript  
 🔗 **Live Demo:** [c-p-amuthan.github.io/Task-Manager-Application/](https://c-p-amuthan.github.io/Task-Manager-Application/)
-
----
-
-## 🏆 Achievements
-
-- 📝 Research Paper: "Enhanced E-Ticketing Booking System for Railways"
-- 🥈 Finalist – VIVID 8.0 Project Competition, SSN College of Engineering
-- 🎖️ **Scout Rajya Puraskar Award** by former Governor Banwarilal Purohit
-- 🥋 Purple I Belt in Karate
 
 ---
 
