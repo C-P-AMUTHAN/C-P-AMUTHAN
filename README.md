@@ -66,11 +66,44 @@
 ## 🧾 Projects
 
 ### 🔷 GoWhats Web Application  
-A React-based app that automates **printing, packing, and tracking** for e-commerce orders using WhatsApp API  
-**Tech:** React.js, JavaScript, WhatsApp Business API
+A React-based app that automates **printing, packing, and tracking** for e-commerce orders using WhatsApp API.  
+**Tech:** React.js, JavaScript, WhatsApp Business API  
+🚀 **Live Demo:** *Coming Soon*
 
-### 🌐 Personal Portfolio  
-Responsive portfolio built using HTML, CSS, JavaScript showcasing all my projects and achievements.
+---
+
+### 🚆 Railway Ticket Reservation System  
+An enhanced railway e-ticketing system with improved UI/UX, presented at a national-level technical conference.  
+**Tech:** HTML, CSS, JS  
+🚀 **Live Demo:** *Coming Soon*
+
+---
+
+### 🌐 Personal Portfolio Website  
+Responsive portfolio built using HTML, CSS, JavaScript to showcase all my projects and achievements.  
+**Tech:** HTML5, CSS3, JavaScript  
+🔗 **Live Demo:** [c-p-amuthan.github.io/My-Portfolio/](https://c-p-amuthan.github.io/My-Portfolio/)
+
+---
+
+### 🛒 Elite Dress Shop (HTML Only)  
+A fully responsive HTML-only e-commerce template for dress shopping. Built with clean, semantic HTML for beginners exploring page structure and navigation.  
+**Tech:** HTML5  
+🔗 **Live Demo:** [c-p-amuthan.github.io/Elite-HTML-Project/](https://c-p-amuthan.github.io/Elite-HTML-Project/)
+
+---
+
+### 🐶 Online Pet Store (HTML + CSS)  
+An elegant, responsive front-end site for pet adoption using only HTML5 and CSS3. Designed to provide a clean and accessible UI.  
+**Tech:** HTML5, CSS3  
+🔗 **Live Demo:** [c-p-amuthan.github.io/Online-Pet-Store---HTML-CSS/](https://c-p-amuthan.github.io/Online-Pet-Store---HTML-CSS/)
+
+---
+
+### 📋 Task Manager Application (HTML + CSS + JS)  
+A front-end task manager web app that allows users to **add, view, complete, and delete tasks**. Fully interactive with persistent data via local storage.  
+**Tech:** HTML5, CSS3, JavaScript  
+🔗 **Live Demo:** [c-p-amuthan.github.io/Task-Manager-Application/](https://c-p-amuthan.github.io/Task-Manager-Application/)
 
 ---
 
