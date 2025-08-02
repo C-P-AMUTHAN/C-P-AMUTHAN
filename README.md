@@ -70,7 +70,6 @@ An enhanced railway e-ticketing system with improved UI/UX, presented at a natio
 ---
 
 ### 🤖 My AI ChatBot  
-This AI Chatbot is a personal project created by **C.P. Amuthan**, a 3rd-year Computer Science and Engineering student at **K. Ramakrishnan College of Engineering**.  
 The chatbot is designed to answer questions specifically about the developer using a pre-defined dataset.  
 **Tech:** HTML5, CSS3, JavaScript  
 🔗 **Live Demo:** [c-p-amuthan.github.io/My-AI-Chatbot/](https://c-p-amuthan.github.io/My-AI-Chatbot/)
