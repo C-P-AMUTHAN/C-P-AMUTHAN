@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Amuthan C P
 
-🎓 A passionate **Computer Science Engineering** student from **K. Ramakrishnan College of Engineering**, currently in my 4th year (CGPA: 8.43). I specialize in **Problem solving** and **Full Stack Development**.
+🎓 A passionate **Computer Science Engineering** student from **K. Ramakrishnan College of Engineering**. I specialize in **Problem solving** and **Full Stack Development**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=C-P-AMUTHAN&label=Profile%20Views&color=blue&style=flat)
 
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🚀 Previously developed GoWhats, a full-stack web app integrating WhatsApp Business API to automate order management.
-- 🌱 Learning and working on **MERN Stack** and **AI-integrated frontend solutions**
+- 🌱 Learning and working on **Full Stack** and **AI-integrated frontend solutions**
 - 🧠 Practicing competitive programming on **SkillRack**, **HackerRank**, and **LeetCode**
 - 📫 How to reach me: [amuthanpuviarasu7@gmail.com](mailto:amuthanpuviarasu7@gmail.com)
 
@@ -62,10 +62,10 @@ A React-based app that automates **printing, packing, and tracking** for e-comme
 
 ---
 
-### 🚆 Railway Ticket Reservation System  
+### 🚆 Prompt based AI Agent for Train Ticket Booking
 An enhanced railway e-ticketing system with improved UI/UX, presented at a national-level technical conference.  
 **Tech:** HTML, CSS, JS  
-🚀 **Live Demo:** *Coming Soon*
+🚀 **Live Demo:** [prompt-based-ai-agent-for-train-tic.vercel.app/](https://prompt-based-ai-agent-for-train-tic.vercel.app/)
 
 ---
 
